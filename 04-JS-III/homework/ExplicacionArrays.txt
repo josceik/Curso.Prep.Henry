@@ -1,0 +1,4 @@
+Los Arrays son muy útiles debido a que poseen suíndices y esto es
+muy importante en un programa ya que puede ser recorrido mediante el
+ciclo for. Y mediante éstas iteraciones encontrar entre un conjunto
+de valores una condición impuesta por el mismo desarrollador.
